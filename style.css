@@ -46,3 +46,8 @@
 .left{
     width: 58%;
 }
+
+#date{
+    font-size: 100px;
+    line-height: 90px;
+}
